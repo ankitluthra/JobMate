@@ -1,0 +1,11 @@
+# Virtual environment
+jobmate_env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Other
+.DS_Store
+.vscode/
